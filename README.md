@@ -80,6 +80,15 @@ smoke-testing platform with a custom IntelliJ plugin, and a single-node analytic
 finance feature. Those live in my employer's repositories, so the details belong in a conversation rather
 than on this page.
 
+## Certifications
+
+| Certificate Name | Platform | Verification |
+| :--- | :--- | :--- |
+| **Problem Solving (Intermediate)** | HackerRank | [![Badge](https://img.shields.io/badge/View_Certificate-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/eaf168886a02) |
+| **REST API (Intermediate)** | HackerRank | [![Badge](https://img.shields.io/badge/View_Certificate-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/ebc9192a29d0) |
+| **SQL (Advanced)** | HackerRank | [![Badge](https://img.shields.io/badge/View_Certificate-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/37901c9c9c99) |
+| **Javascript (Intermediate)** | HackerRank | [![Badge](https://img.shields.io/badge/View_Certificate-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/a6449e826767) |
+
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/akbar-akbar-425a08137) · akbar.tahir89@gmail.com
