@@ -10,8 +10,7 @@ most of my instinct for testable, observable systems comes from.
 > **A note on this profile.** Most of my substantial work lives in private repositories — employer code and
 > personal systems that run in production with real configuration in them. The two projects below are mine,
 > built solo, and I'm happy to walk through the architecture, the trade-offs, or the code itself in a
-> conversation. The older public repos here are from university and early practice; they aren't
-> representative and I've left them as-is rather than pretend otherwise.
+> conversation.
 
 ---
 
