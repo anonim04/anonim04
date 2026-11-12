@@ -2,7 +2,7 @@
 
 **Backend Engineer** · Jakarta, Indonesia
 
-I build backend services and the tooling that keeps them honest. Currently at **Wondr by BNI**, working on
+I build backend services and the tooling that keeps them honest — lately the architecture behind them too. Currently at **Wondr by BNI**, working on
 event-driven microservices in digital banking (Java / Spring Boot, Python / FastAPI, Golang, Apache Kafka,
 Red Hat OpenShift). Before that, two years leading mobile test automation at the same bank — which is where
 most of my instinct for testable, observable systems comes from.
@@ -75,10 +75,17 @@ that it actually holds up in production.
 
 ## Also
 
-At work I've built internal developer tooling alongside product services — an API regression and
-smoke-testing platform with a custom IntelliJ plugin, and a single-node analytics engine for a personal
-finance feature. Those live in my employer's repositories, so the details belong in a conversation rather
-than on this page.
+At work I build product services and the internal tooling around them. Right now that means owning the
+backend architecture of a new multi-tenant CMS platform — the design documents, the platform standards every
+service follows, and the services themselves — and acting as architect and technical reviewer for a
+server-driven UI framework built by another squad, where my job is the security model, the task breakdown,
+and reviewing what the team ships.
+
+Earlier I built an API regression and smoke-testing platform with a custom IntelliJ plugin, and a single-node
+analytics engine for a personal finance feature.
+
+All of it lives in my employer's repositories, so the details belong in a conversation rather than on this
+page.
 
 ## Certifications
 
